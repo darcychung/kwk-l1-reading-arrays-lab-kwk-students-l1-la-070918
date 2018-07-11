@@ -18,7 +18,7 @@ end
 puts fourth_student_by_index
 
 def last_student_by_index
-  STUDENT_NAMES[6]
+  STUDENT_NAMES[5]
 end
 puts last_student_by_index
 
